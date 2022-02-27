@@ -7,7 +7,7 @@
   <groupId>com.democompany</groupId>
   <artifactId>first-demo-project</artifactId>
   <version>01     </version>
-  <package> war </package>
+  <packaging>war</packaging>
 
   <name>first-demo-project</name>
   <!-- FIXME change it to the project's website -->
